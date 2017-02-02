@@ -1,11 +1,11 @@
 name:                lambda
-version:             0.1.0.0
+version:             0.1
 synopsis:            A lambda calculus reducer / evaluator
 description:         Please see README.md
 homepage:            https://github.com/mattoxbeckman/lambda
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
+author:              Mattox Beckman
 maintainer:          mattox@illinois.edu
 copyright:           2017 Mattox Beckman
 category:            Web
